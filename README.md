@@ -1,6 +1,8 @@
 # firebase_demo
 
-A new Flutter project.
+A new Flutter project using firebase.
+User authentikation, user login, user registration, user logout
+
 
 ## Getting Started
 
